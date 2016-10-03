@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/media/dipster/My Drive/coding/java_project/spotify/bin/spotify/.metadata/.plugins/org.eclipse.jdt.core
